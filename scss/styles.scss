@@ -140,6 +140,9 @@ html, body, ul, li {
   .wrapper {
     grid-template-columns: 100%;
   }
+  #main-menu {
+    display: none;
+  }
 }
 
  // MOBILE & TABLET REPONSIVE 
